@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6DB0DD40-5731-5EEC-B113-6AFDA01877D4}") = "rveti", "Assembly-CSharp.csproj", "{467E46E2-C8F3-B686-8573-C0AE431335AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
