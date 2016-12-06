@@ -3,6 +3,8 @@ using System.Collections;
 
 public class GameManagerScript : MonoBehaviour {
 
+	public GameObject altarPanel;
+
 	public bool paused;
 
 	// Use this for initialization
@@ -21,9 +23,28 @@ public class GameManagerScript : MonoBehaviour {
 		} else {
 			Time.timeScale = 1;
 		}
+
 	}
 
 	void FixedUpdate(){
 		
+	}
+
+	public void ActivateAltarPanel(){
+		PauseGame ();
+		altarPanel.SetActive (true);
+	}
+
+	public void DeactivateAltarPanel(){
+		UnpauseGame ();
+		altarPanel.SetActive (false);
+	}
+
+	void PauseGame(){
+		paused = true;
+	}
+
+	void UnpauseGame(){
+		paused = false;
 	}
 }
