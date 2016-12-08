@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{ABC7F0DD-0494-D313-43EE-0DE2F5F38EAE}") = "Rveti", "Assembly-CSharp.csproj", "{66D5F332-111B-CE2C-EEC5-A80F6AB1A421}"
+Project("{6DB0DD40-5731-5EEC-B113-6AFDA01877D4}") = "rveti", "Assembly-CSharp.csproj", "{467E46E2-C8F3-B686-8573-C0AE431335AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{66D5F332-111B-CE2C-EEC5-A80F6AB1A421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66D5F332-111B-CE2C-EEC5-A80F6AB1A421}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66D5F332-111B-CE2C-EEC5-A80F6AB1A421}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66D5F332-111B-CE2C-EEC5-A80F6AB1A421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467E46E2-C8F3-B686-8573-C0AE431335AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
