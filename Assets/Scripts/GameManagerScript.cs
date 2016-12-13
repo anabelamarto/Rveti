@@ -3,13 +3,14 @@ using System.Collections;
 
 public class GameManagerScript : MonoBehaviour {
 
+	public static HeroScript heroScript;
 	public GameObject altarPanel;
 
 	public bool paused;
 
 	// Use this for initialization
 	void Start () {
-	
+		heroScript = GameObject.FindGameObjectWithTag ("Player").GetComponent<HeroScript> ();
 	}
 	
 	// Update is called once per frame

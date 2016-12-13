@@ -8,6 +8,7 @@ public class EventTriggerTestScript : MonoBehaviour {
 			EventManagerScript.TriggerEvent ("test");
 			EventManagerScript.TriggerEvent ("cameraShake");
 			EventManagerScript.TriggerEvent ("wineTrap");
+			EventManagerScript.TriggerEvent ("floorDraw");
 		}
 	}
 }
