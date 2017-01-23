@@ -1,0 +1,103 @@
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Unity Projects\Rveti\obj\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ghost\Desktop\Rveti\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\obj\Debug\Assembly-CSharp.pdb

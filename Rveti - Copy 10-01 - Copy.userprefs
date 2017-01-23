@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\UI\HPBarScript.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\UI\HPBarScript.cs" Line="22" Column="46" />
+      <File FileName="Assets\Resources\Scripts\GeneralScripts\EnemyScript.cs" Line="19" Column="2" />
+      <File FileName="Assets\Resources\Scripts\Enemies\Bacchus\BacchusScript.cs" Line="104" Column="34" />
+      <File FileName="Assets\Resources\Scripts\HeroAbilityScripts\FireThrowScript.cs" Line="62" Column="20" />
+      <File FileName="Assets\Resources\Scripts\HeroSubWeaponScripts\CrossbowArrowScript.cs" Line="44" Column="55" />
+      <File FileName="Assets\Resources\Scripts\AmphoraScript.cs" Line="29" Column="5" />
+      <File FileName="Assets\Resources\Scripts\HeroScript.cs" Line="354" Column="50" />
+      <File FileName="Assets\Resources\Scripts\GeneralScripts\GameManagerScript.cs" Line="103" Column="4" />
+      <File FileName="Assets\Resources\Scripts\HeroMainWeaponScripts\HeroSwordAttackScript.cs" Line="24" Column="41" />
+      <File FileName="Assets\Resources\Scripts\HPVialScript.cs" Line="27" Column="39" />
+      <File FileName="Assets\Resources\Scripts\GeneralScripts\EnvironmentMusicScript.cs" Line="68" Column="4" />
+      <File FileName="Assets\Resources\Scripts\RoomScript.cs" Line="117" Column="5" />
+      <File FileName="Assets\Resources\Scripts\Enemies\Zombie\ZombieScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Pc\Desktop\Unity Projects\Rveti - Copy 10-01 - Copy\Assets\Resources\Scripts\GeneralScripts\EventManagerScript.cs" line="53" column="1" />
+      <Breakpoint file="C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Assets\Resources\Scripts\HeroScript.cs" line="251" column="1" />
+      <Breakpoint file="C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Assets\Resources\Scripts\HeroScript.cs" line="255" column="1" />
+      <Breakpoint file="C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Assets\Resources\Scripts\HeroAbilityScripts\FireThrowScript.cs" line="37" column="1" />
+      <Breakpoint conditionExpression="isMoving == true" file="C:\Users\Pc\Desktop\Rveti 2\Rveti\Rveti - Copy 10-01 - Copy\Assets\Resources\Scripts\Enemies\Zombie\ZombieScript.cs" line="72" column="1" />
+      <Breakpoint file="C:\Users\Ghost\Desktop\Rveti 3\Rveti - Copy 10-01 - Copy\Assets\Resources\Scripts\RoomScript.cs" line="105" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
